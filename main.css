@@ -1,0 +1,31 @@
+body {
+  background-color: lavender;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 6px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.center {
+  display: block;
+  margin-left: 185px;
+  margin-right: auto;
+  width: 50%;
+}
