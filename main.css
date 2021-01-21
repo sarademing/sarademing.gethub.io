@@ -5,11 +5,18 @@ body {
 h1 {
   color: black;
   text-align: center;
+  background-color: white;
+}
+h2 {
+  color: black;
+  text-align: left;
+  background-color: white;
 }
 
 p {
   font-family: Helvetica;
   font-size: 20px;
+  background-color: lightgray;
 }
 .column {
   float: left;
