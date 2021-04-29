@@ -10,7 +10,7 @@ function preload(){
   img2 = loadImage('assets/waterFall.jpg');
   img3 = loadImage('assets/tree.jpg');
   img4 = loadImage('assets/lake.jpg');
-  vid1 = createVideo('assets/waterFall2.MOV');
+  //vid1 = createVideo('assets/waterFall2.MOV');
   //stuff to prepare gets done here
 }
 function setup() {
@@ -27,13 +27,13 @@ function draw() {
   image(img4, 500, 300);
   //think of this area as a looping function that continuall puts things on screen, in order
 }
-function mousePressed() {
-if(vid1.isPlaying(assets/waterFall2.MOV)) {
-  vid1.stop(assets/waterFall2.MOV);
-}
-else {
+//function mousePressed() {
+//if(vid1.isPlaying(assets/waterFall2.MOV)) {
+//  vid1.stop(assets/waterFall2.MOV);
+//}
+//else {
   vid1.play(assets/waterFall2.MOV);
-}
+//}
 
 
-  }
+//  }
