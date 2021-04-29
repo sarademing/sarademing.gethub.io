@@ -32,7 +32,7 @@ function draw() {
 //  vid1.stop(assets/waterFall2.MOV);
 //}
 //else {
-  vid1.play(assets/waterFall2.MOV);
+//  vid1.play(assets/waterFall2.MOV);
 //}
 
 
