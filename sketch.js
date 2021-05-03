@@ -11,7 +11,7 @@ function preload(){
   img3 = loadImage('assets/tree.jpg');
   img4 = loadImage('assets/lake.jpg');
   vid1 = createVideo('assets/waterFall2.MOV');
-  stuff to prepare gets done here
+  //stuff to prepare gets done here
 }
 function setup() {
   createCanvas(1920, 1080);
