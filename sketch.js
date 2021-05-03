@@ -22,8 +22,8 @@ function draw() {
   rect(0,0,700, 500);
   image(img1, 0, 0);
   image(img2, 300, 300);
-  image(img3, 400, 100);
-  image(img4, 500, 300);
+  image(img3, 500, 500);
+  image(img4, 700, 500);
   //think of this area as a looping function that continuall puts things on screen, in order
 }
 //function mousePressed() {
