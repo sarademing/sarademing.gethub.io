@@ -1,5 +1,5 @@
 //variables go up here
-//let img1;
+let img1;
 let img2;
 let img3;
 let img4;
