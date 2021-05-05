@@ -19,10 +19,10 @@ function setup() {
 }
 function draw() {
   background(255, 204, 0);
-  rect(0,0,700, 500);
+  rect(0,0,750, 500);
   image(img1, 0, 0);
   image(img2, 250, 0);
-  image(img3, 500, 500);
+  image(img3, 500, 0);
   image(img4, 700, 500);
   //think of this area as a looping function that continuall puts things on screen, in order
 }
