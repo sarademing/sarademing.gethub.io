@@ -3,12 +3,16 @@ let img1;
 let img2;
 let img3;
 let img4;
+let img5;
+let img6;
 //let vid1;
 function preload(){
   img1 = loadImage('assets/pond.jpg');
   img2 = loadImage('assets/waterFall.jpg');
   img3 = loadImage('assets/tree.jpg');
   img4 = loadImage('assets/lake.jpg');
+  img5 = loadImage('assets/bush.jpg');
+  img6 = loadImage('assets/park.jpg');
   //vid1 = createVideo('assets/waterFall2.MOV');
   //stuff to prepare gets done here
 }
@@ -25,6 +29,8 @@ function draw() {
   image(img2, 250, 0);
   image(img3, 500, 0);
   image(img4, 690, 500);
+  image(img5, 940, 500);
+  image(img6, 1190, 500);
   //think of this area as a looping function that continuall puts things on screen, in order
 }
 //function mousePressed() {
