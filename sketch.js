@@ -5,7 +5,7 @@ let img3;
 let img4;
 let img5;
 let img6;
-let img7;
+
 //let vid1;
 function preload(){
   img1 = loadImage('assets/pond.jpg');
@@ -14,7 +14,7 @@ function preload(){
   img4 = loadImage('assets/lake.jpg');
   img5 = loadImage('assets/bush.jpg');
   img6 = loadImage('assets/park.jpg');
-  img7 = loadImage('assets/flower.jpg');
+  
   //vid1 = createVideo('assets/waterFall2.MOV');
   //stuff to prepare gets done here
 }
@@ -33,7 +33,7 @@ function draw() {
   image(img4, 690, 500);
   image(img5, 940, 500);
   image(img6, 1190, 500);
-  image(img7, 1050, 0);
+  
   //think of this area as a looping function that continuall puts things on screen, in order
 }
 //function mousePressed() {
