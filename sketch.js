@@ -18,7 +18,7 @@ function setup() {
 //things to establish the "sandbox" go here
 }
 function draw() {
-  background(255, 204, 0);
+  background(238, 130, 238);
   rect(0,0,750, 400);
   rect(690,500,750,400);
   image(img1, 0, 0);
