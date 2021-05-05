@@ -13,7 +13,7 @@ function preload(){
   //stuff to prepare gets done here
 }
 function setup() {
-  createCanvas(1920, 1080);
+  createCanvas(1440, 900);
   //vid1.position(100, 600);
 //things to establish the "sandbox" go here
 }
