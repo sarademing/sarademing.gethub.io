@@ -38,10 +38,10 @@ function draw() {
   fill("yellow");
   circle(300, 650, 80);
   fill("white");
-  ellipse(110, 1130, 60, 100);
-  ellipse(290, 1130, 60, 100);
-  ellipse(200, 1220, 100, 60);
-  ellipse(200, 1040, 100, 60);
+  ellipse(300, 660, 60, 100);
+  ellipse(300, 740, 60, 100);
+  ellipse(410, 1220, 100, 60);
+  ellipse(220, 1040, 100, 60);
   
   image(img1, 0, 0);
   image(img2, 250, 0);
