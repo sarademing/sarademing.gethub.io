@@ -34,6 +34,15 @@ function draw() {
   ellipse(1130, 290, 60, 100);
   ellipse(1220, 200, 100, 60);
   ellipse(1040, 200, 100, 60);
+  
+  fill("yellow");
+  circle(200, 1130, 80);
+  fill("white");
+  ellipse(110, 1130, 60, 100);
+  ellipse(290, 1130, 60, 100);
+  ellipse(200, 1220, 100, 60);
+  ellipse(200, 1040, 100, 60);
+  
   image(img1, 0, 0);
   image(img2, 250, 0);
   image(img3, 500, 0);
