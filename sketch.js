@@ -38,7 +38,7 @@ function draw() {
   fill("yellow");
   circle(300, 650, 80);
   fill("white");
-  ellipse(300, 660, 60, 100);
+  ellipse(300, 560, 60, 100);
   ellipse(300, 740, 60, 100);
   ellipse(410, 650, 100, 60);
   ellipse(220, 650, 100, 60);
