@@ -13,7 +13,7 @@ function preload(){
   img3 = loadImage('assets/tree.jpg');
   img4 = loadImage('assets/lake.jpg');
   img5 = loadImage('assets/bush.jpg');
-  img6 = loadImage('assets/park.jpg');
+  img6 = loadImage('assets/heart.jpg');
   
   //vid1 = createVideo('assets/waterFall2.MOV');
   //stuff to prepare gets done here
