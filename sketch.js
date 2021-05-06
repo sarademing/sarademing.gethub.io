@@ -27,7 +27,7 @@ function draw() {
   background(238, 130, 238);
   rect(0,0,750, 400);
   rect(690,500,750,400);
-  circle(500, 500, 40);
+  circle(500, 700, 60);
   image(img1, 0, 0);
   image(img2, 250, 0);
   image(img3, 500, 0);
