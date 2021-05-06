@@ -40,8 +40,8 @@ function draw() {
   fill("white");
   ellipse(300, 660, 60, 100);
   ellipse(300, 740, 60, 100);
-  ellipse(410, 1220, 100, 60);
-  ellipse(220, 1040, 100, 60);
+  ellipse(410, 650, 100, 60);
+  ellipse(220, 650, 100, 60);
   
   image(img1, 0, 0);
   image(img2, 250, 0);
