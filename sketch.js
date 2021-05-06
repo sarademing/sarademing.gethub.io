@@ -33,7 +33,7 @@ function draw() {
   ellipse(1130, 110, 60, 100);
   ellipse(1130, 290, 60, 100);
   ellipse(1220, 200, 100, 60);
-  ellipse(1190, 200, 100, 60);
+  ellipse(1110, 200, 100, 60);
   image(img1, 0, 0);
   image(img2, 250, 0);
   image(img3, 500, 0);
